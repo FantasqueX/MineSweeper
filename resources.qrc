@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/block">
+        <file alias="0">Block/0.png</file>
+        <file alias="1">Block/1.png</file>
+        <file alias="2">Block/2.png</file>
+        <file alias="3">Block/3.png</file>
+        <file alias="4">Block/4.png</file>
+        <file alias="5">Block/5.png</file>
+        <file alias="6">Block/6.png</file>
+        <file alias="7">Block/7.png</file>
+        <file alias="8">Block/8.png</file>
+        <file alias="explode">Block/explode.png</file>
+        <file alias="flag">Block/flag.png</file>
+        <file alias="initial">Block/initial.png</file>
+        <file alias="mine">Block/mine.png</file>
+        <file alias="question">Block/question.png</file>
+        <file alias="question2">Block/question2.png</file>
+        <file alias="wrong">Block/wrong.png</file>
+    </qresource>
+    <qresource prefix="/emoji">
+        <file alias="laugh">Emoji/laugh.png</file>
+        <file alias="laugh2">Emoji/laugh2.png</file>
+        <file alias="lose">Emoji/lose.png</file>
+        <file alias="warn">Emoji/warn.png</file>
+        <file alias="win">Emoji/win.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file alias="icon">icon.ico</file>
+    </qresource>
+    <qresource prefix="/number">
+        <file alias="0">Number/0.png</file>
+        <file alias="1">Number/1.png</file>
+        <file alias="2">Number/2.png</file>
+        <file alias="3">Number/3.png</file>
+        <file alias="4">Number/4.png</file>
+        <file alias="5">Number/5.png</file>
+        <file alias="6">Number/6.png</file>
+        <file alias="7">Number/7.png</file>
+        <file alias="8">Number/8.png</file>
+        <file alias="9">Number/9.png</file>
+        <file alias="blank">Number/blank.png</file>
+        <file alias="minus">Number/minus.png</file>
+    </qresource>
+</RCC>
